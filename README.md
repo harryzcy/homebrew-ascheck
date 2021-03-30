@@ -1,11 +1,11 @@
-# Harryzcy Ascheck
+# Homebrew Tap for ascheck
 
-## How do I install these formulae?
+## How do I install the formulae?
 
-`brew install harryzcy/ascheck/<formula>`
+`brew install harryzcy/ascheck/ascheck`
 
-Or `brew tap harryzcy/ascheck` and then `brew install <formula>`.
+Or `brew tap harryzcy/ascheck` and then `brew install ascheck`.
 
-## Documentation
+## Formulae Reference
 
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+- [`ascheck`](https://github.com/harryzcy/ascheck) - Apple Silicon Check
