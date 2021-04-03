@@ -1,8 +1,8 @@
 class Ascheck < Formula
   desc "Command-line app that checks all of your apps for their Apple Silicon support"
   homepage "https://github.com/harryzcy/ascheck"
-  url "https://github.com/harryzcy/ascheck/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "32db7a2203c6151c554e93d3870fc81dc8301196211597654da15e9ef4ed7c59"
+  url "https://github.com/harryzcy/ascheck/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "eb0cbf673d9fd696128b758f598fbb44ddc5b5a82626de2454ab1a4959e14855"
   license "MIT"
   head "https://github.com/harryzcy/ascheck.git"
 
